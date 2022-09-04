@@ -1,5 +1,5 @@
 <h1 align="center">Hi , This is Hameedreza Gucci</h1>
-<h3 align="center">A frontend developer from Iran</h3>
+<h3 align="center">A frontend developer</h3>
 
 - 🔭 I’m currently working on [Darsup h5p](https://darsup.org/)
 
